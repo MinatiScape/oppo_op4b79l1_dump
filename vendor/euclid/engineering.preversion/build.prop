@@ -1,0 +1,10 @@
+# build porp start
+ro.sys.engineering.pre=true
+persist.sys.oppo.log.config=0
+persist.sys.assert.panic=true
+persist.sys.log.user=1
+persist.vendor.ssr.enable_ramdumps=1
+persist.sys.enable_wcnss_dump=1
+persist.sys.enable_modem_dump=1
+ro.build.display.id=CPH1931EX_11_C.75
+ro.build.version.ota=CPH1931EXPRE_11.C.75_1750_202103112227

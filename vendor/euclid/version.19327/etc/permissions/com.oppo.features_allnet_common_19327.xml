@@ -1,0 +1,15 @@
+<permissions>
+    <feature name="oppo.feature.19327" />
+    <!-- Zhen.Yue@PSW.MM.Display.SF.Feature, 2018/04/02, Add for roundcorner -->
+    <feature name="oppo.roundcorner.support" />
+    <feature name="com.oppo.feature.screen.heteromorphism" />
+    <!-- Zeqi.Shen@AD.Fingerprint.1127478, 2017/10/29, add for fingerpirnt feature -->
+    <feature name="android.hardware.fingerprint" />
+    <feature name="oppo.back.touch.fingerprint.sensor" />
+    <!-- Ping.Zhang@PSW.BSP.TP, 2019/05/14, Add for blackgesture -->
+    <feature name="oppo.lcd.first.tp.last.support"/>
+    <!-- Wenkan.Zhu@PSW.CN.WiFi.Network.internet.1800709, 2019/01/24, Add for private feature -->
+    <feature name="oppo.wlan.privateDns.support" />
+    <!-- Changwei.Li@ROM.SDK, 2017/10/12, add support display compat-->
+    <feature name="oppo.display.compat.support" />
+</permissions>

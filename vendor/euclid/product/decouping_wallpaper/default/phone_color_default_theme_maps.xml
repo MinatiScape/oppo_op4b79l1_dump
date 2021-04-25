@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhoneColors>
+        <!--PhoneColor.name：手机颜色的唯一标识，由项目、手软提供-->
+        <!--ColorDescription：手机颜色描述，描述手机颜色-->
+        <!--ColorDescriptionCN：手机颜色描述（中文），描述手机颜色-->
+        <!--DefaultTheme_lock :对应的锁屏壁纸-->
+        <!--DefaultTheme_system :对应的桌面壁纸-->
+        <!--ThemeDescriptionCN：主题描述（中文），描述主题名称-->
+        <!--手机颜色唯一标识、手机颜色描述由项目或手软提供，对应主题由桌面主题组根据UI要求配置-->
+        <!--该文件由OS产品中心桌面主题组维护-->
+
+    <PhoneColor name="FF00CECA">
+        <ColorDescription>Marine Green</ColorDescription>
+        <ColorDescriptionCN>湖光绿</ColorDescriptionCN>
+        <DefaultTheme_lock>oppo_default_wallpaper_green_light</DefaultTheme_lock>
+        <DefaultTheme_system>oppo_default_wallpaper_green_light</DefaultTheme_system>
+        <ThemeDescriptionCN>流光绿</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FF9690FF">
+        <ColorDescription>Space Purple</ColorDescription>
+        <ColorDescriptionCN>暮晨紫</ColorDescriptionCN>
+        <DefaultTheme_lock>oppo_default_wallpaper_morning_purple</DefaultTheme_lock>
+        <DefaultTheme_system>oppo_default_wallpaper_morning_purple</DefaultTheme_system>
+        <ThemeDescriptionCN>晨曦紫</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FF333338">
+        <ColorDescription>Mirror Black</ColorDescription>
+        <ColorDescriptionCN>极夜黑</ColorDescriptionCN>
+        <DefaultTheme_lock>oppo_default_wallpaper_color_focus</DefaultTheme_lock>
+        <DefaultTheme_system>oppo_default_wallpaper_color_focus</DefaultTheme_system>
+        <ThemeDescriptionCN>炫彩</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FFE4E4E4">
+        <ColorDescription>Dazzling White</ColorDescription>
+        <ColorDescriptionCN>流云白</ColorDescriptionCN>
+        <DefaultTheme_lock>oppo_default_wallpaper_color_focus</DefaultTheme_lock>
+        <DefaultTheme_system>oppo_default_wallpaper_color_focus</DefaultTheme_system>
+        <ThemeDescriptionCN>炫彩</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FFFFEEFD">
+        <ColorDescription>Vanilla Mint</ColorDescription>
+        <ColorDescriptionCN>香草薄荷</ColorDescriptionCN>
+        <DefaultTheme_lock>oppo_default_wallpaper_fluorescence</DefaultTheme_lock>
+        <DefaultTheme_system>oppo_default_wallpaper_fluorescence</DefaultTheme_system>
+        <ThemeDescriptionCN>荧光</ThemeDescriptionCN>
+    </PhoneColor>
+</PhoneColors>

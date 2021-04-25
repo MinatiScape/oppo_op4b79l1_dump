@@ -1,0 +1,123 @@
+{
+  "config":{
+    "hw_platform": ["QRD", "MTP", "Dragon", "Surf", "HDK", "IDP"],
+    "soc_id": ["291", "246", "305", "321", "336", "339", "341", "360", "361", "393", "394"]
+  },
+  "mn29910_0_platform":{
+    "owner": "sns_mn29910",
+    ".config":{
+      "owner": "sns_mn29910",
+      "bus_type":{ "type": "int", "ver": "0",
+        "data": "0"
+      },
+      "bus_instance":{ "type": "int", "ver": "0",
+        "data": "7"
+      },
+      "slave_config":{ "type": "int", "ver": "0",
+        "data": "65"
+      },
+      "min_bus_speed_khz":{ "type": "int", "ver": "0",
+        "data": "400"
+      },
+      "max_bus_speed_khz":{ "type": "int", "ver": "0",
+        "data": "400"
+      },
+      "reg_addr_type":{ "type": "int", "ver": "0",
+        "data": "0"
+      },
+      "dri_irq_num":{ "type": "int", "ver": "0",
+        "data": "91"
+      },
+      "irq_pull_type":{ "type": "int", "ver": "0",
+        "data": "2"
+      },
+      "irq_is_chip_pin":{ "type": "int", "ver": "0",
+        "data": "1"
+      },
+      "irq_drive_strength":{ "type": "int", "ver": "0",
+        "data": "0"
+      },
+      "irq_trigger_type":{ "type": "int", "ver": "0",
+        "data": "1"
+      },
+      "num_rail":{ "type": "int", "ver": "0",
+        "data": "1"
+      },
+      "rail_on_state":{ "type": "int", "ver": "0",
+        "data": "2"
+      },
+      "vddio_rail":{ "type": "str", "ver": "0",
+        "data": "/pmic/client/sensor_vddio"
+      },
+      "rigid_body_type":{ "type": "int", "ver": "0",
+      "data": "0"
+      }
+    },
+    ".ps":{
+      "owner": "sns_mn29910",
+      ".fac_cal":{
+        "owner": "sns_mn29910",
+        "near_threshold":{ "type": "flt", "ver": "0",
+          "data": "4000.0"
+        },
+        "far_threshold":{ "type": "flt", "ver": "0",
+          "data": "2000.0"
+        },
+        "ctir_config":{ "type": "flt", "ver": "0",
+          "data": "0.0"
+        }
+      },
+	  ".config":{
+        "owner": "sns_mn29910",
+        "wait_time":{ "type":"flt", "ver":"0", "data":"0x0"},
+		"ps_max_ct":{ "type":"flt", "ver":"0", "data":"15000"},
+		"ps_intt":{ "type":"flt", "ver":"0", "data":"0x7"},
+		"ps_gain":{ "type":"flt", "ver":"0", "data":"0x3"},
+		"ps_pulse":{ "type":"flt", "ver":"0", "data":"63"},
+		"ps_avg":{ "type":"flt", "ver":"0", "data":"0x6"},
+		"ps_ir_drive":{ "type":"flt", "ver":"0", "data":"0x2"},
+		"ps_persist":{ "type":"flt", "ver":"0", "data":"0x0"},
+		"ps_ir_sel":{ "type":"flt", "ver":"0", "data":"0x0"}
+      }
+    },
+    ".placement":{
+      "owner": "sns_mn29910",
+      "0":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "1":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "2":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "3":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "4":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "5":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "6":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "7":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "8":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "9":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "10":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      },
+      "11":{ "type": "flt", "ver": "0",
+        "data": "0.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<permissions>
+    <!-- Yong.Zhu@Camera, 2020/03/16, add for fingerprint keymode  -->
+    <feature name="oppo.camera.fingerprint.shutter" />
+</permissions>
