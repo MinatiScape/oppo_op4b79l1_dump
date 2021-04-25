@@ -1,0 +1,2 @@
+com.coloros.focusmode
+com.android.fmradio

@@ -1,0 +1,8 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+  <feature name="oppo.customize.hardware_software_version_show" />
+  <feature name="coloros.customize.settings.origin_kernel_version" />
+    <feature name="coloros.customize.simsettings.DE_TMobile_vowifi_switch"/>
+    <feature name="coloros.customize.mms.user_agent_tmobile"/>
+    <feature name="oppo.phone.play.busy.tone" />
+</permissions>
